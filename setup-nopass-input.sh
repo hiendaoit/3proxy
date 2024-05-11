@@ -124,7 +124,7 @@ bash /etc/rc.local
 
 gen_proxy_file_for_user
 upload_proxy
-rm -rf /root/setup-nopass.sh
+rm -rf /root/setup-nopass-input.sh
 rm -rf /root/3proxy-3proxy-0.8.6
 
 echo "Starting Proxy"
